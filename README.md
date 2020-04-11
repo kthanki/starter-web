@@ -12,4 +12,4 @@ This is one of the most famous course
 
 ##Git Comparison
 We are comparing the file
-with the XXX
+with the the help of everyone
