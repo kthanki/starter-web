@@ -16,3 +16,4 @@
     HTML5, CSS3, Angular
     jQuery, Modernizr, JAVA
 	Hi how are you?
+	Hello i am adding change
