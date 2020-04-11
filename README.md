@@ -5,7 +5,7 @@ This is git project which we are using as sample project
 ##introduction
 
 A lot of lecture already submitted
-
+A lot of lecture still pending
 ##Git and GIThub Training
 
 This is one of the most famous course
