@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Krunal> -- <Thanki> -- <twitter>
 
 # THANKS
 
